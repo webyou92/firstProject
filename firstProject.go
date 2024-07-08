@@ -1,4 +1,4 @@
-package main
+package firstPro
 
 import "fmt"
 func main(){
