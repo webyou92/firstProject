@@ -3,5 +3,5 @@ package firstProject
 import "fmt"
 
 func Hi() {
-	fmt.Println("salam mamadam")
+	fmt.Println("salam in avalin repo ast!!!")
 }
