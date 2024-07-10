@@ -1,7 +1,11 @@
 package firstProject
 
-import "fmt"
+import (
+	"github.com/webyou92/Pr3"
+	"fmt"
+)
 
 func Hi() {
-	fmt.Println("salam in avalin repo ast!!!")
+	Project3.Salam()
+	fmt.Println("in avalin repo ast!!!")
 }
