@@ -8,4 +8,5 @@ import (
 func Hi() {
 	Project3.Salam()
 	fmt.Println("in avalin repo ast!!! va avalin version v1.0.3")
+	fmt.Println("version v1.0.4")
 }
