@@ -10,3 +10,7 @@ func Hi() {
 	fmt.Println("in avalin repo ast!!! va avalin version v1.0.3")
 	fmt.Println("version v1.0.4")
 }
+func Version() {
+	Project3.Salam()
+	fmt.Println("version v1.0.5")
+}
