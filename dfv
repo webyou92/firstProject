@@ -1,0 +1,16 @@
+[33mcommit c8b2f2310618c17b74b96bfdf71165bcfdaf0e3e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0.0[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: webyou92 <webyou.92@gmail.com>
+Date:   Fri Jul 12 00:32:40 2024 +0330
+
+    20240712-01
+
+[1mdiff --git a/go.mod b/go.mod[m
+[1mindex 80edfd4..1e28fb0 100644[m
+[1m--- a/go.mod[m
+[1m+++ b/go.mod[m
+[36m@@ -2,4 +2,4 @@[m [mmodule github.com/webyou92/firstProject[m
+ [m
+ go 1.22.4[m
+ [m
+[31m-require github.com/webyou92/Pr3 v0.0.0-20240710204215-8e06492f18ce // indirect[m
+[32m+[m[32mrequire github.com/webyou92/Pr3 v0.0.0-20240710204215-8e06492f18ce[m
